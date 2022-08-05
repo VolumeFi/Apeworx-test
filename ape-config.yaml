@@ -1,0 +1,6 @@
+name: mytest
+foundry:
+  fork:
+    ethereum:
+      mainnet:
+        upstream_provider: infura
